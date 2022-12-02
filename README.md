@@ -15,7 +15,7 @@ Buat wallet di https://www.limino.com/#/wallet Jika ingin Import wallet gunakan 
  
 ![image](https://user-images.githubusercontent.com/91402307/196043477-cfa849d3-3f08-48f2-b6e0-c053c6330b81.png)
 
-## Daftar Untuk Mendaptakan Fauncet Part 1
+## Daftar Untuk Mendaptakan Faucet Part 2
 
 https://gleam.io/1nbP9/mirror-universe-no2
 ![image](https://user-images.githubusercontent.com/91402307/196396809-652ffe31-d0e8-475e-87fa-951b25bc4461.png)
