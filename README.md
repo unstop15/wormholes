@@ -70,7 +70,7 @@ bash ./checkworm.sh
 ```
 Tunggu hingga Sync
 
-## Daftar Untuk Mendaptakan Fauncet Part 2
+## Daftar Untuk Mendaptakan Faucet Part 2
 
 Setelah selesai mengisi Gleam dan Sync silahkan Screenshot Log kalian dan kirim Screenhot tersebut ke market@wormholes.com mereka akan meninjau apakah kalian layak atau tidak (Good Luck)
 ![image](https://user-images.githubusercontent.com/91402307/196398203-10c34886-6057-44be-bb10-b21242a3fbbf.png)
