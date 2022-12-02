@@ -9,7 +9,7 @@ Minimal Spesifikasi VPS
 
 160GB/200GB SSD/NVME Storage
 
-## Membuat wallet/Import wallet
+## Membuat wallet/Import wallet 
 
 Buat wallet di https://www.limino.com/#/wallet Jika ingin Import wallet gunakan Seed Phase Metamask
  
